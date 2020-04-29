@@ -35,9 +35,13 @@ export const ComunidadOne = () => {
 						<br />
 						<div className="espacio3" />
 						<p className="parrafo">
-							Un grupo de personas trabajadoras de la salud se encontraban frente a los manifestantes de ReOpen NC. 
-		<br /> Algunos manifestantes de ReOpen comenzaron a gritar y molestar a los que protestaban.Pero los trabajadores de la salud solo estaban parados frente a los manifestantes de #ReOpenNC, manteniendo la distancia social y sin responder a las agresiones.
-		<br /> @NewsLatinoToday
+							Un grupo de personas trabajadoras de la salud se encontraban frente a los manifestantes de
+							ReOpen NC.
+							<br /> Algunos manifestantes de ReOpen comenzaron a gritar y molestar a los que
+							protestaban.Pero los trabajadores de la salud solo estaban parados frente a los
+							manifestantes de #ReOpenNC, manteniendo la distancia social y sin responder a las
+							agresiones.
+							<br /> @NewsLatinoToday
 						</p>
 						<div className="espacio2" />
 						<Link to="/">

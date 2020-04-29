@@ -101,9 +101,9 @@ const getState = ({ getStore, getActions, setStore }) => {
 				{
 					description: "",
 					date: "Abril 28, 2020",
-					image:"https://pbs.twimg.com/media/EWs3MSWX0AELSQg?format=jpg&name=large",
-					type:"COMUNIDAD",
-					title:"Trabajadores de la salud se paran frente a los ReOpenNC "
+					image: "https://pbs.twimg.com/media/EWs3MSWX0AELSQg?format=jpg&name=large",
+					type: "COMUNIDAD",
+					title: "Trabajadores de la salud se paran frente a los ReOpenNC "
 				}
 			],
 			comunidad2: [
