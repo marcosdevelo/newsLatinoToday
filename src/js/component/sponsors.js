@@ -46,7 +46,7 @@ export const Sponsors = () => {
 						<div className="col-md-4">
 							<a href="https://m.facebook.com/LigaHispanaDeBunn/">
 								<img
-									src="https://scontent.fmia1-1.fna.fbcdn.net/v/t31.0-8/22181450_1354862417945008_6077301093248005771_o.jpg?_nc_cat=108&_nc_sid=85a577&_nc_oc=AQnRcDkHiuEEF-BZ0L33C9zCWLyIf-qxUhXSBqCapU8wRJigV4XxxG6oTPb2v1noy-v7SpQakF8ol6NH80VyIcDp&_nc_ht=scontent.fmia1-1.fna&oh=5517f994295305f264295c98566bb96f&oe=5EB98EFA"
+									src="https://scontent.fmia1-1.fna.fbcdn.net/v/t31.0-8/22181450_1354862417945008_6077301093248005771_o.jpg?_nc_cat=108&_nc_sid=85a577&_nc_oc=AQkGqIZAx1ErapZ1tS3CYW3JeOfZPrDkdD0V5WHwQv_I6N3-KPueW1LCX_gb4-M6eXxoK0egKaPBK5g4qxoO0gYa&_nc_ht=scontent.fmia1-1.fna&oh=1fbf195ab5f5a5d26c3eab778d92967c&oe=5EE904FA"
 									className="card-img"
 									alt="..."
 								/>
@@ -105,7 +105,7 @@ export const Sponsors = () => {
 						<div className="col-md-4">
 							<a href="https://hopecafe.church/">
 								<img
-									src="https://scontent.fmia1-2.fna.fbcdn.net/v/t1.15752-9/s2048x2048/82597766_656709181737457_2370873246481383424_n.png?_nc_cat=111&_nc_sid=b96e70&_nc_oc=AQkkKSKCrtSpDJO9tmPNCtUvz1CXl4r-qOqkdD-9nyOyIIJ7_QEL50sdoYIJKZYpAWQIg8oluaS0HgsSk66UgEni&_nc_ht=scontent.fmia1-2.fna&oh=182c3b6d2b054744b4eab7e11d949d0e&oe=5EB7C5FC"
+									src="https://hopecafe.church/wp-content/uploads/2019/01/Hope-Cafe-Church-White-logo.png"
 									heigjjght="200"
 									height="170"
 									className="card-img"
