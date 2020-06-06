@@ -8,6 +8,7 @@ import FormControl from "react-bootstrap/FormControl";
 import NavDropdown from "react-bootstrap/NavDropdown";
 import { Link } from "react-router-dom";
 import useWindowScrollPosition from "@rehooks/window-scroll-position";
+import mainlogo from "../../img/newslogo.jpg";
 export const Test = () => {
 	// optionally you can pass options, those are default:
 	let options = {
@@ -66,7 +67,7 @@ export const Test = () => {
 						<Link to="/seccion-comunidad">
 							<div>
 								<img
-									src="https://scontent.fmia1-1.fna.fbcdn.net/v/t1.15752-9/83194744_599465614209879_3208406626709012480_n.png?_nc_cat=108&_nc_oc=AQkxY8VZg0_V1rl-zuezge-EyAAw2eXJXYhYt3yiZfZvyzfZ3Ut1HwVIYCSfgdwKHrg2o-GgnuYrCWyjB-yACm17&_nc_ht=scontent.fmia1-1.fna&oh=1fe7f5d32987f7527636ba8a8931d86d&oe=5ED9BC60"
+									src={mainlogo}
 									height="150"
 									width="41"
 									className="img-fluid max-width-100% mr-3"

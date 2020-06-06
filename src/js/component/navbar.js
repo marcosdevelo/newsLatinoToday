@@ -7,7 +7,7 @@ import Form from "react-bootstrap/Form";
 import FormControl from "react-bootstrap/FormControl";
 import NavDropdown from "react-bootstrap/NavDropdown";
 import { Link } from "react-router-dom";
-
+import mainlogo from "../../img/newslogo.jpg";
 export class NavbarHome extends React.Component {
 	render() {
 		return (
@@ -27,13 +27,7 @@ export class NavbarHome extends React.Component {
                     <Navbar.Brand className="" href="#home"> */}
 				<div className="logoHome container text-center">
 					<Link to="/">
-						<img
-							src="mainlogo.jpg"
-							height="150"
-							width="350"
-							className="img-fluid max-width-100%"
-							alt="..."
-						/>
+						<img src={mainlogo} height="150" width="350" className="img-fluid max-width-100%" alt="..." />
 					</Link>
 				</div>
 				{/* </Navbar.Brand>
