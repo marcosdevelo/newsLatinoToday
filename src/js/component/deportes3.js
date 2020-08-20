@@ -30,7 +30,6 @@ export const DeportesThree = () => {
 							className="img-fluid height-auto max-width-100%"
 							alt="..."
 						/>
-
 						{/* <div
 				className="deportes3"
 				style={{
@@ -55,12 +54,12 @@ export const DeportesThree = () => {
 							Zlatan y les di Zlatan. Son bienvenidos, la historia continúa. Ahora vuelvan a ver béisbol,
 							escribió el sueco, fiel a su estilo, en su cuenta de Twitter.
                         </p> */}
-						<div className="row row1 spacewithmain">
+						{/* <div className="row row1 spacewithmain">
 							<div className="col-sm-4">
 								{store.deportes3.map((item, index) => {
 									return (
 										<Card key={index}>
-											{/* <div className="comunidadFotos1" style={{ height: "300px" }} /> */}
+										
 											<img
 												src={item.image2}
 												height="613"
@@ -72,7 +71,7 @@ export const DeportesThree = () => {
 												<span className="secondeparttextspam">
 													<strong>
 														{" "}
-														{/* {item.title} */}
+														
 														<br />
 													</strong>
 												</span>
@@ -85,7 +84,7 @@ export const DeportesThree = () => {
 								{store.deportes3.map((item, index) => {
 									return (
 										<Card key={index}>
-											{/* <div className="comunidadFotos1" style={{ height: "300px" }} /> */}
+											
 											<img
 												src={item.image3}
 												height="613"
@@ -97,7 +96,7 @@ export const DeportesThree = () => {
 												<span className="secondeparttextspam">
 													<strong>
 														{" "}
-														{/* {item.title} */}
+													
 														<br />
 													</strong>
 												</span>
@@ -111,7 +110,7 @@ export const DeportesThree = () => {
 								{store.deportes3.map((item, index) => {
 									return (
 										<Card key={index}>
-											{/* <div className="comunidadFotos1" style={{ height: "300px" }} /> */}
+											
 											<img
 												src={item.image4}
 												height="300"
@@ -122,7 +121,7 @@ export const DeportesThree = () => {
 												<span className="secondeparttextspam">
 													<strong>
 														{" "}
-														{/* {item.title} */}
+													
 														<br />
 													</strong>
 												</span>
@@ -137,7 +136,7 @@ export const DeportesThree = () => {
 								{store.deportes3.map((item, index) => {
 									return (
 										<Card key={index}>
-											{/* <div className="comunidadFotos1" style={{ height: "300px" }} /> */}
+										
 											<img
 												src={item.image5}
 												height="300"
@@ -148,7 +147,7 @@ export const DeportesThree = () => {
 												<span className="secondeparttextspam">
 													<strong>
 														{" "}
-														{/* {item.title} */}
+													
 														<br />
 													</strong>
 												</span>
@@ -161,7 +160,7 @@ export const DeportesThree = () => {
 								{store.deportes3.map((item, index) => {
 									return (
 										<Card key={index}>
-											{/* <div className="comunidadFotos1" style={{ height: "300px" }} /> */}
+										
 											<img
 												src={item.image6}
 												height="300"
@@ -172,7 +171,7 @@ export const DeportesThree = () => {
 												<span className="secondeparttextspam">
 													<strong>
 														{" "}
-														{/* {item.title} */}
+														
 														<br />
 													</strong>
 												</span>
@@ -185,7 +184,7 @@ export const DeportesThree = () => {
 								{store.deportes3.map((item, index) => {
 									return (
 										<Card key={index}>
-											{/* <div className="comunidadFotos1" style={{ height: "300px" }} /> */}
+											
 											<img
 												src={item.image7}
 												height="300"
@@ -196,16 +195,15 @@ export const DeportesThree = () => {
 												<span className="secondeparttextspam">
 													<strong>
 														{" "}
-														{/* {item.title} */}
+												
 														<br />
 													</strong>
 												</span>
 											</CardBody>
-										</Card>
-									);
-								})}
-							</div>
-						</div>
+										</Card> */}
+						{/* ); })} */}
+						{/* </div> */}
+						{/* </div> */}
 						<div className="espacio2" />
 						<Link to="/">
 							<span className="volver">Volver A La Pagina Principal</span>

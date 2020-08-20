@@ -52,12 +52,12 @@ export const DeportesTwo = () => {
 							Tranquilos que la pelota no se mancha
 							{'"'}.
 						</p>
-						<div className="row row1 spacewithmain">
+						{/* <div className="row row1 spacewithmain">
 							<div className="col-sm-4">
 								{store.deportes2.map((item, index) => {
 									return (
 										<Card key={index}>
-											{/* <div className="comunidadFotos1" style={{ height: "300px" }} /> */}
+											
 											<img
 												src={item.image2}
 												height="613"
@@ -69,7 +69,7 @@ export const DeportesTwo = () => {
 												<span className="secondeparttextspam">
 													<strong>
 														{" "}
-														{/* {item.title} */}
+														
 														<br />
 													</strong>
 												</span>
@@ -82,7 +82,7 @@ export const DeportesTwo = () => {
 								{store.deportes2.map((item, index) => {
 									return (
 										<Card key={index}>
-											{/* <div className="comunidadFotos1" style={{ height: "300px" }} /> */}
+										
 											<img
 												src={item.image3}
 												height="613"
@@ -94,7 +94,7 @@ export const DeportesTwo = () => {
 												<span className="secondeparttextspam">
 													<strong>
 														{" "}
-														{/* {item.title} */}
+														
 														<br />
 													</strong>
 												</span>
@@ -108,7 +108,7 @@ export const DeportesTwo = () => {
 								{store.deportes2.map((item, index) => {
 									return (
 										<Card key={index}>
-											{/* <div className="comunidadFotos1" style={{ height: "300px" }} /> */}
+										
 											<img
 												src={item.image4}
 												height="300"
@@ -119,7 +119,7 @@ export const DeportesTwo = () => {
 												<span className="secondeparttextspam">
 													<strong>
 														{" "}
-														{/* {item.title} */}
+													
 														<br />
 													</strong>
 												</span>
@@ -134,7 +134,7 @@ export const DeportesTwo = () => {
 								{store.deportes2.map((item, index) => {
 									return (
 										<Card key={index}>
-											{/* <div className="comunidadFotos1" style={{ height: "300px" }} /> */}
+										
 											<img
 												src={item.image5}
 												height="300"
@@ -145,7 +145,7 @@ export const DeportesTwo = () => {
 												<span className="secondeparttextspam">
 													<strong>
 														{" "}
-														{/* {item.title} */}
+														
 														<br />
 													</strong>
 												</span>
@@ -158,7 +158,7 @@ export const DeportesTwo = () => {
 								{store.deportes2.map((item, index) => {
 									return (
 										<Card key={index}>
-											{/* <div className="comunidadFotos1" style={{ height: "300px" }} /> */}
+											
 											<img
 												src={item.image6}
 												height="300"
@@ -169,7 +169,7 @@ export const DeportesTwo = () => {
 												<span className="secondeparttextspam">
 													<strong>
 														{" "}
-														{/* {item.title} */}
+												
 														<br />
 													</strong>
 												</span>
@@ -182,7 +182,7 @@ export const DeportesTwo = () => {
 								{store.deportes2.map((item, index) => {
 									return (
 										<Card key={index}>
-											{/* <div className="comunidadFotos1" style={{ height: "300px" }} /> */}
+											
 											<img
 												src={item.image7}
 												height="300"
@@ -193,7 +193,7 @@ export const DeportesTwo = () => {
 												<span className="secondeparttextspam">
 													<strong>
 														{" "}
-														{/* {item.title} */}
+														
 														<br />
 													</strong>
 												</span>
@@ -201,8 +201,8 @@ export const DeportesTwo = () => {
 										</Card>
 									);
 								})}
-							</div>
-						</div>
+							</div> */}
+						{/* </div> */}
 
 						<div className="espacio2" />
 						<Link to="/">
