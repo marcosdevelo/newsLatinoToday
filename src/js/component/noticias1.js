@@ -3,7 +3,6 @@ import "../../styles/home.scss";
 import { Card, Button, CardImg, CardTitle, CardText, CardGroup, CardSubtitle, CardBody, CardDeck } from "reactstrap";
 import { Link } from "react-router-dom";
 import { Context } from "../store/appContext";
-
 export const NoticiasOne = () => {
 	const { store, actions } = useContext(Context);
 
@@ -42,34 +41,33 @@ export const NoticiasOne = () => {
 						<br />
 						<div className="espacio3" />
 						<p className="parrafo">
-							Estamos trabajando para fomentar la expansión de las oportunidades educativas para los
-							aprendices de inglés como segundo idioma que asisten a las escuelas públicas de Carolina del
-							Norte (grados K-12). En la actualidad estos estudiantes carecen de servicios adecuados, por
-							lo tanto, buscamos y apoyamos iniciativas que remuevan las barreras que estropean su
-							desarrollo académico. Al mismo tiempo abogamos por los servicios y el apoyo necesitados,
-							cambios de políticas, y cambios en los gastos estatales. Nuestra labor: Educación Sin
-							Barreras NC es una red de base de defensores de la educación bilingüe que surgió en
-							respuesta a la necesidad urgente de mejores servicios y apoyo para los aprendices de inglés
-							como segundo idioma.
+							En junio de 2020, estimamos que hay 218,000 Latinxs en Carolina del Norte registrados para
+							votar, pero hay otros 212,000 Latinxs de Carolina del Norte que son elegibles y no están
+							registrados aún . Este dato es sorprendente porque estamos hablando de casi el doble de
+							personas de origen Latinx que podría hacer una diferencia con su voto en el Estado y ser la
+							voz de sus familiares y amigos. *El objetivo de esta campaña es generar conciencia sobre la
+							importancia de registrarse para votar en las elecciones de Noviembre 2020 y expandir el
+							registro de votantes entre la comunidad Latinx no registrada. La fecha límite para
+							registrase para votar es Octubre 9. ¿Qué estás esperando para registrarte?.
 							<br />
 							<br />
-							Nuestra alianza es una consorcio de familias, educadores, estudiantes y aliados de la
-							comunidad que exaltan el valor del bilingüismo. Estamos trabajando unidos para conseguir el
-							apoyo financiero necesario para que estos estudiantes tengan éxito educativo. Para lograr lo
-							anterior hacemos lo siguiente:
+							•REGISTRO de VOTANTES: •Existen dos maneras de registrarse para votar en Carolina del Norte.
+							A saber, las personas elegibles, Ciudadanos americanos, mayores de 16 años pueden
+							registrarse para votar. ( sólo los mayores de 18 años podrán votar en Noviembre). 1)
+							llenando una solicitud en papel y presentándola ó enviándola a la Junta de Elecciones en
+							persona o por correo. 2) Ó en el sitio web del DMV si tiene una identificación o licencia de
+							conducir emitida por el DMV.
 							<br />
 							<br />
-							Educación y participación comunitaria Ofrecemos talleres bilingües y capacitaciones para
-							padres. También convocamos foros comunitarios para promover una colaboración significativa
-							entre educadores, padres, estudiantes y defensores con el fin de asegurar que las políticas
-							estatales referentes a la educación se determinen tomando en cuenta la opinión de la
-							comunidad y sean dirigidas por la misma. Abogacía Procuramos involucrar a nuestros miembros
-							en actividades de defensa legislativa para garantizar que el sentir y las experiencias de la
-							comunidad tenga una voz en los procesos de toma de decisiones que afectan a los aprendices
-							del inglés como segundo idioma. Comunicación Promovemos una replanteamiento del bilingüismo
-							como una habilidad muy valiosa que beneficia a todos y fortalece nuestra comunidad.
-							¡Conéctate! info@sinbarrerasnc.org
-							<br />
+							•RECUERDA NO NECESITAS UNA IDENTIFICACIÓN PARA PODER VOTAR EN LAS ELECCIONES DE 2020. Si
+							usted está debidamente inscrito para votar, no necesita una identiﬁcación con foto para
+							votar en las elecciones del 2020. El requisito controversial sobre la identiﬁcación del
+							votante fue bloqueado por un tribunal federal para todas las elecciones, mientras el caso se
+							impugna en el tribunal. Consulte ncvoter.org para las últimas noticias sobre la ley
+							(contenido en {"inglés"}
+							). Orden: 1:18CV1034; Emitida: 12/31/19 * Síguenos en Facebook 👍🏼 {'"Tu'} voto es tu voz, NC
+							regístrate para votar!. {'"Este'} @Grupo es organizado como un #servicio a la #comunidad
+							latinx en N.C. por: Comunidad Vida Nueva NC
 							<br />
 							<br />
 							<br />

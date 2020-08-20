@@ -70,11 +70,10 @@ const getState = ({ getStore, getActions, setStore }) => {
 				{
 					date: "Abril 25,2020",
 
-					image:
-						"https://image.freepik.com/vector-gratis/grupo-personas-discute-noticias-redes-sociales_106299-61.jpg",
+					image: "https://i.postimg.cc/9XZvfRbw/news-Flyerupdate.jpg",
 					type: "NOTICIAS",
 
-					title: "Ser Bilingue es un super poder!"
+					title: "Tu voto es tu voz, regístrate para votar!"
 				}
 			],
 			noticias2: [
@@ -101,9 +100,10 @@ const getState = ({ getStore, getActions, setStore }) => {
 				{
 					description: "",
 					date: "Abril 28, 2020",
-					image: "https://pbs.twimg.com/media/EWs3MSWX0AELSQg?format=jpg&name=large",
+					image:
+						"https://image.freepik.com/vector-gratis/grupo-personas-discute-noticias-redes-sociales_106299-61.jpg",
 					type: "COMUNIDAD",
-					title: "Trabajadores de la salud se paran frente a los ReOpenNC "
+					title: "Ser Bilingue es un super poder!"
 				}
 			],
 			comunidad2: [
@@ -111,22 +111,15 @@ const getState = ({ getStore, getActions, setStore }) => {
 					description:
 						"En el inicio de la fase pública de la investigación para el impeachment de Trump en el Congreso comparecieron dos veteranos diplomáticos: William Taylor, actualmente encargado de negocios en Ucrania, y George Kent, subsecretario adjunto de Asuntos Europeos y Euroasiáticos.",
 					date: "Marzo 7, 2020",
-					image:
-						"https://scontent.fmia1-1.fna.fbcdn.net/v/t1.15752-9/p1080x2048/92306564_839142039926134_179096867773087744_n.jpg?_nc_cat=103&_nc_sid=b96e70&_nc_oc=AQmA6YcTtim2LI0JTU2NbQsr3xGVgO_JVxkaAJrhcqhIB-0PX3zD_iUrOuadmrd1yy2o4kbjKOpC716hHtoK4Ri3&_nc_ht=scontent.fmia1-1.fna&_nc_tp=6&oh=548e514fc03d3c81cc7a07781f409665&oe=5EE9A1E3",
+					image: "https://i.postimg.cc/3RSW4fY9/sandra1.jpg",
 					type: "COMUNIDAD",
 					title: "Comunidad Vida Nueva: Mi prójimo es cualquiera que tenga necesidad",
-					image2:
-						"https://scontent.fmia1-1.fna.fbcdn.net/v/t1.15752-9/p1080x2048/92565245_739376166596623_627437994017554432_n.jpg?_nc_cat=106&_nc_sid=b96e70&_nc_oc=AQmFdu2GgNzErmvvO2XwuRHRBm2avrDvrzhfo-onQrIoKUsK4bvkChRfgnGTqbXDhw-QqIS3--4nyWiI-kkhQytG&_nc_ht=scontent.fmia1-1.fna&_nc_tp=6&oh=f7d95f7215c8201072fec24620297b21&oe=5EE7EC35",
-					image3:
-						"https://scontent.fmia1-1.fna.fbcdn.net/v/t1.15752-9/92597945_520044212269866_166655717611143168_n.jpg?_nc_cat=103&_nc_sid=b96e70&_nc_oc=AQnBV4sHE9_38BJEfO_nlhqHUIJnnhMYcOmG8UcD98VJBOguhPCn2iKcb-K8lLTFzg1bVUm3QBkP7RHTTdZ8CdW7&_nc_ht=scontent.fmia1-1.fna&oh=5db17b23d797549996091f186a814d64&oe=5EE8DD61",
-					image4:
-						"https://scontent.fmia1-1.fna.fbcdn.net/v/t1.15752-9/p1080x2048/92829787_2448334698599944_6087941654738632704_n.jpg?_nc_cat=102&_nc_sid=b96e70&_nc_oc=AQni_o8BDw0iXJiwwDynnt9Igk1oOMxhwmJT3473osFQmEl6EyjVvSN7VKXJPup2GpkY6jCYc21fjFbKSeoD-wmZ&_nc_ht=scontent.fmia1-1.fna&_nc_tp=6&oh=a4b611a3751511d2a7dfd59f3dd9b779&oe=5EEAF9EA",
-					image5:
-						"https://scontent.fmia1-2.fna.fbcdn.net/v/t1.15752-9/p1080x2048/92822894_252715605905429_2457753940888911872_n.jpg?_nc_cat=111&_nc_sid=b96e70&_nc_oc=AQlXeO1KHY6A5CooDtLxliVW3CMbyW41zFg8gKcbbM8lcln1tH-37e8xZKsnvBWfVtODAKqVwdQRrHIJRWZ1kOt5&_nc_ht=scontent.fmia1-2.fna&_nc_tp=6&oh=a02d663304280a000999b6bbee6c7b2b&oe=5EE89E77",
-					image6:
-						"https://scontent.fmia1-1.fna.fbcdn.net/v/t1.15752-9/p1080x2048/92281981_641798286398838_3601479538262933504_n.jpg?_nc_cat=102&_nc_sid=b96e70&_nc_oc=AQnZrpPwYL5jsEP3RvC7Gx28G3PdOnc6AGleY2fqukdg-XeNZQM9FxBmvkgELBu6Er5zvcTJXpcRNJaYY7cBR6V6&_nc_ht=scontent.fmia1-1.fna&_nc_tp=6&oh=636deaf76cc6a614d8b5355ccf196517&oe=5EEB1B9A",
-					image7:
-						"https://scontent.fmia1-2.fna.fbcdn.net/v/t1.15752-9/p1080x2048/92218078_206826704077437_760663378413748224_n.jpg?_nc_cat=104&_nc_sid=b96e70&_nc_oc=AQlK3miewghXyyK_ekpEaljoKYdFupCnmkc4RJGj0-FwKV1-JuXbyvudwhqd5TMllVen2ECZdTKWCFtBq0jDQy_d&_nc_ht=scontent.fmia1-2.fna&_nc_tp=6&oh=8c1fe04510867d93ec3c6c43ab28232e&oe=5EE9A8C2"
+					image2: "https://i.postimg.cc/cCvCQ7JW/sandra2.jpg",
+					image3: "https://i.postimg.cc/90sM1447/sandra3.jpg",
+					image4: "https://i.postimg.cc/c1zrdzDL/sandra4.jpg",
+					image5: "https://i.postimg.cc/pXnyrB7Y/sandra5.jpg",
+					image6: "https://i.postimg.cc/dV21mVJh/sandra7.jpg",
+					image7: "https://i.postimg.cc/Pqdq6nq2/sandra9.jpg"
 				}
 			],
 			comunidad3: [
