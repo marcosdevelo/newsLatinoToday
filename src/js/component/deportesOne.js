@@ -207,8 +207,8 @@ export const DeportesOne = () => {
 							{"‘Comunidad Vida Nueva NC’"}
 							junto al medio comunitario News Latino Today hizo un evento con las familias presentes, de
 							concientización y registración de votantes ciudadanos mayores de 18 {"años"}. Bajo el lema
-							de campaña {'"Tu voto es tu voz"'}. Pd: el título de la nota hace honor a la visón de News
-							Latino Today como medio comprometido con la comunidad latinx en Carolina del Norte y la
+							de campaña {'"Tu voto es tu voz"'}. El título de la nota hace honor a la visón de News
+							Latino Today como medio comprometido con la comunidad latina en Carolina del Norte y la
 							promoción del deporte amateur con las familias hispanas.
 							<br />
 							<br />
