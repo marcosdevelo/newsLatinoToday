@@ -197,17 +197,26 @@ export const DeportesOne = () => {
 						<br />
 						<div className="espacio3" />
 						<p className="parrafo">
-							Para ejemplificar, la concejal de la ciudad de Durham, Javiera Caballero explicó a Enlace
-							Latino NC que si un grupo de jóvenes está jugando al fútbol (algo que no se debe hacer por
-							ahora) le será dada una advertencia verbal, si regresan probablemente recibirán otra
-							advertencia, pero si hay una tercera vez entonces pueden venir las multas y amonestaciones.
-							“Esto será si es algo repetitivo” dijo. “Es importante seguir las reglas para el beneficio
-							de todos”. En general, la violación de una orden de emergencia es un delito menor de clase
-							2, dijo al News & Observer el abogado de Durham, Daniel Meier.
+							El pasado domingo 23 de agosto en los campos de béisbol de la liga hispana en la ciudad de
+							Seven Spring, NC. se celebró la final de béisbol entre los equipos de Depo. Agua Dulce y
+							Depo. Combinados del Norte. Depo. Agua Dulce se coronó campeón del torneo de 1era.
+							Felicitaciones a los campeones!.
 							<br />
 							<br />
+							Esa misma tarde, en los mismos campos de béisbol, la Organización{" "}
+							{"‘Comunidad Vida Nueva NC’"}
+							junto al medio comunitario News Latino Today hizo un evento con las familias presentes, de
+							concientización y registración de votantes ciudadanos mayores de 18 {"años"}. Bajo el lema
+							de campaña {'"Tu voto es tu voz"'}. Pd: el título de la nota hace honor a la visón de News
+							Latino Today como medio comprometido con la comunidad latinx en Carolina del Norte y la
+							promoción del deporte amateur con las familias hispanas.
 							<br />
 							<br />
+							*Si tienes comentarios puedes escribirnos
+							{"a:"} newslatinotodaync@gmail.com
+							<br />
+							<br />
+							Síguenos en Instagram y Facebook @newslatinotoday
 						</p>
 						<div className="espacio2" />
 						<Link to="/">
