@@ -13,6 +13,15 @@ export const Home = () => {
 			{/* SECCION DE IZQUIERDA */}
 			<div className="container">
 				<div className="row row1">
+					<div className="botonvotar">
+						<button>
+							<a
+								className="vota"
+								href="https://votemosnc.com/form.html?partner=38525&source=newsLatinoToday&locale=en&state=nc">
+								Haz Click Para Votar!
+							</a>
+						</button>
+					</div>
 					<div className="col-sm-3 leftside">
 						{store.deportes1.map((item, index) => {
 							return (

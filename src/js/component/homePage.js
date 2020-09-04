@@ -8,6 +8,7 @@ export class HomePage extends React.Component {
 				<Jumbotron className="jumbohome">
 					<div className="container containerhome">
 						<div className="jumboedit">
+                            
 							{/* <div className="row"> */}
 
 							<div className="left float-left">
