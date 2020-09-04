@@ -46,6 +46,9 @@ export const Test = () => {
 							<div>SPONSORS</div>
 						</Link>
 					</Nav.Link>
+					<Nav.Link href="https://votemosnc.com/form.html?partner=38525&source=newsLatinoToday&locale=en&state=nc">
+						<div className="vota">Haz Click Para Votar!</div>
+					</Nav.Link>
 					{/* <Nav.Link href="#galeria">
 						<Link to="">
 							<div>APOYA A COMUNIDAD VIDA NUEVA</div>
