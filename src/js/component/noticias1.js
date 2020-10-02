@@ -22,13 +22,15 @@ export const NoticiasOne = () => {
 							</span>
 						</div>
 						<div className="espacio3" />
-						<img
-							src={item.image}
-							height="613"
-							width="100%"
-							className="img-fluid height-auto max-width-100%"
-							alt="..."
-						/>
+						<a href="https://www.facebook.com/groups/2808017706096886/?ref=share">
+							<img
+								src={item.image}
+								height="613"
+								width="100%"
+								className="img-fluid height-auto max-width-100%"
+								alt="..."
+							/>
+						</a>
 
 						{/* <div
 				className="deportes1"
