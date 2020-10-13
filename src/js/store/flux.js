@@ -59,8 +59,7 @@ const getState = ({ getStore, getActions, setStore }) => {
 					image: "https://i.postimg.cc/kGQ1gP4g/sandra-la-times.jpg",
 					type: "NOTICIAS",
 
-					title:
-						"¿Pueden los demócratas poner azul a Carolina del Norte? Los latinos pueden tener la respuesta"
+					title: "Can Democrats turn North Carolina blue? Latinos may hold the answer"
 				}
 			],
 			noticias2: [
