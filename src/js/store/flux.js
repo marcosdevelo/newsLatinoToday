@@ -54,21 +54,22 @@ const getState = ({ getStore, getActions, setStore }) => {
 			],
 			noticias1: [
 				{
-					date: "Abril 25,2020",
+					date: "Octubre 12,2020",
 
-					image: "https://i.postimg.cc/9XZvfRbw/news-Flyerupdate.jpg",
+					image: "https://i.postimg.cc/kGQ1gP4g/sandra-la-times.jpg",
 					type: "NOTICIAS",
 
-					title: "Tu voto es tu voz, regístrate para votar!"
+					title:
+						"¿Pueden los demócratas poner azul a Carolina del Norte? Los latinos pueden tener la respuesta"
 				}
 			],
 			noticias2: [
 				{
-					description: "Dígale a la FCC: detengan la propagación de información errónea sobre el coronavirus",
-					date: "Marzo 23,2020",
-					image: "https://d3nw1if3cd9gaw.cloudfront.net/images/pet-fox-news-misinfo-covid-200319.jpg",
+					description: "",
+					date: "Abril 25,2020",
+					image: "https://i.postimg.cc/9XZvfRbw/news-Flyerupdate.jpg",
 					type: "NOTICIAS",
-					title: "Coronavirus: Stop FakeNews!"
+					title: "Tu voto es tu voz, regístrate para votar!"
 				}
 			],
 			noticias3: [

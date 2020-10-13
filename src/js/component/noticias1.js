@@ -22,15 +22,14 @@ export const NoticiasOne = () => {
 							</span>
 						</div>
 						<div className="espacio3" />
-						<a href="https://www.facebook.com/groups/2808017706096886/?ref=share">
-							<img
-								src={item.image}
-								height="613"
-								width="100%"
-								className="img-fluid height-auto max-width-100%"
-								alt="..."
-							/>
-						</a>
+
+						<img
+							src={item.image}
+							height="613"
+							width="100%"
+							className="img-fluid height-auto max-width-100%"
+							alt="..."
+						/>
 
 						{/* <div
 				className="deportes1"
@@ -43,35 +42,21 @@ export const NoticiasOne = () => {
 						<br />
 						<div className="espacio3" />
 						<p className="parrafo">
-							En junio de 2020, estimamos que hay 218,000 Latinxs en Carolina del Norte registrados para
-							votar, pero hay otros 212,000 Latinxs de Carolina del Norte que son elegibles y no están
-							registrados aún . Este dato es sorprendente porque estamos hablando de casi el doble de
-							personas de origen Latinx que podría hacer una diferencia con su voto en el Estado y ser la
-							voz de sus familiares y amigos. *El objetivo de esta campaña es generar conciencia sobre la
-							importancia de registrarse para votar en las elecciones de Noviembre 2020 y expandir el
-							registro de votantes entre la comunidad Latinx no registrada. La fecha límite para
-							registrase para votar es Octubre 9. ¿Qué estás esperando para registrarte?.
+							SILER CITY, N.C. - En Siler City, donde los camiones de aves de corral esparcen plumas en
+							las carreteras, Janet Pulido llamó a las puertas de un parque de casas móviles con un gran
+							número de latinos en un reciente fin de semana de otoño, con la esperanza de obtener la
+							votación. En Interfood Plaza Latina en Raleigh, Sarahi González sostuvo un cartel en español
+							que decía: {"“Regístrese para votar aquí."} ¿Ciudadano? ¿Más de 18 años? ¿La primera persona
+							que el joven de 18 años se registró para votar esa noche? Sí misma. Al otro lado de la
+							ciudad, durante el medio tiempo en un campo de fútbol de césped irregular, con los equipos
+							de Honduras y El Salvador empatados, Sandra Amado Gómez y su hija se apresuraron a registrar
+							a los jóvenes espectadores. Firmaron cuatro. En este campo de batalla presidencial, como en
+							gran parte del Sur, la política se ve típicamente a través de un prisma de blanco y negro.
 							<br />
 							<br />
-							•REGISTRO de VOTANTES: •Existen dos maneras de registrarse para votar en Carolina del Norte.
-							A saber, las personas elegibles, Ciudadanos americanos, mayores de 16 años pueden
-							registrarse para votar. ( sólo los mayores de 18 años podrán votar en Noviembre). 1)
-							llenando una solicitud en papel y presentándola ó enviándola a la Junta de Elecciones en
-							persona o por correo. 2) Ó en el sitio web del DMV si tiene una identificación o licencia de
-							conducir emitida por el DMV.
-							<br />
-							<br />
-							•RECUERDA NO NECESITAS UNA IDENTIFICACIÓN PARA PODER VOTAR EN LAS ELECCIONES DE 2020. Si
-							usted está debidamente inscrito para votar, no necesita una identiﬁcación con foto para
-							votar en las elecciones del 2020. El requisito controversial sobre la identiﬁcación del
-							votante fue bloqueado por un tribunal federal para todas las elecciones, mientras el caso se
-							impugna en el tribunal. Consulte ncvoter.org para las últimas noticias sobre la ley
-							(contenido en {"inglés"}
-							). Orden: 1:18CV1034; Emitida: 12/31/19 * Síguenos en Facebook 👍🏼 {'"Tu'} voto es tu voz, NC
-							regístrate para votar!. {'"Este'} @Grupo es organizado como un #servicio a la #comunidad
-							latinx en N.C. por: Comunidad Vida Nueva NC
-							<br />
-							<br />
+							<a href="https://www.latimes.com/politics/story/2020-10-12/latino-vote-north-carolina-presidential-battleground">
+								para ver nota oficial de LA Times haz click aqui!
+							</a>
 							<br />
 						</p>
 						<div className="espacio2" />

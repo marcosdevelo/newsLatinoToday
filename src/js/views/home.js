@@ -13,7 +13,7 @@ export const Home = () => {
 			{/* SECCION DE IZQUIERDA */}
 			<div className="container">
 				<div className="row row1">
-					<div className="botonvotar">
+					{/* <div className="botonvotar">
 						<button>
 							<a
 								className="vota"
@@ -21,7 +21,7 @@ export const Home = () => {
 								Haz Click Para Votar!
 							</a>
 						</button>
-					</div>
+					</div> */}
 					<div className="col-sm-3 leftside">
 						{store.deportes1.map((item, index) => {
 							return (
