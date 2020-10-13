@@ -64,7 +64,7 @@ export const NoticiasOne = () => {
 							<br />
 							<br />
 							<a href="https://www.latimes.com/politics/story/2020-10-12/latino-vote-north-carolina-presidential-battleground">
-								Click here To see the full article!
+								Click here To see the full article in LA Times!
 							</a>
 							<br />
 						</p>
